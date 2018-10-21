@@ -156,6 +156,63 @@ H1{
 	padding-bottom: 120px;
 }
 
+#aboutus{
+	padding-bottom: 85px;
+}
+.aboutLeft{
+	width: 530px;
+	text-align: right;
+	margin-top: 85px;
+	float: left;
+}
+.aboutLeft p{
+	font-size: 14px;
+}
+.aboutLeft img{
+	float: right;
+	margin-left: 40px;
+}
+.aboutLeft h3{
+	
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+}
+.upper{
+	text-transform: uppercase;
+}
+
+.aboutRight{
+	width: 530px;
+	text-align: left;
+	margin-top: 85px;
+	float: right;
+}
+.alr{
+	float: right;
+	width: 310px;
+}
+.alr h3{
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+}
+
+.alr p{
+	font-size: 14px;
+}
+
+#footer{
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	background: #F7F7F7;
+	padding: 10px;
+}
+
+
+
+
 
 
 
