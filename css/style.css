@@ -230,10 +230,6 @@ H1{
 
 @media (min-width: 375px) and (min-height: 812px) and (-webkit-device-pixel-ratio: 3){
 	
-	*{
-		border: 1px solid #e91e1e;
-	}
-	
 	.container{
 		width: 800px;
 	}
